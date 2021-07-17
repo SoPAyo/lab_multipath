@@ -1,0 +1,3 @@
+http://csie.nqu.edu.tw/smallko/mininet-wifidockerp4.zip
+
+將下載下來的檔案匯入至vmware或是virtual box之類的虛擬機器即可。
